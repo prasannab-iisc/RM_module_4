@@ -1,7 +1,7 @@
 # Research Methods - Module 4 Plots
 Data obtained from - [https://data.gov.in](https://data.gov.in)
 
-![Pie Chart](/Pie_Chart_women_population_by_age.png =50x50)
+<img src="/Pie_Chart_women_population_by_age.png" alt="pie chart" width="200"/>
 
 The Pie Chart shows female population of Tamil Nadu by age groups. It is evident that young female population contributes to a high proportion of the total female population.
 
